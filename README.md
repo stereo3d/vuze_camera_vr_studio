@@ -1,5 +1,10 @@
 # vuze camera vr studio
 
+The vuze camera was a VR360 degree and a VR180 degree camera designed for immersive panorama movie and pictures. The foldable design makes the camera unique and allows to record VR180 stereoscopic videos for youtube. And example can be found here:
+
+https://www.youtube.com/watch?v=A2DbbAP1yTQ
+
+
 backup of the official vuze.camera vr software download page
 
 as the official vuze.camera page throws and SSL error consumers are not able to download the vr studio software anymore.
