@@ -2,7 +2,7 @@
 
 backup of the official vuze.camera vr software download page
 
-as the official vuze.camera page throws and SSl error consumers are not able to download the vr studio software anymore.
+as the official vuze.camera page throws and SSL error consumers are not able to download the vr studio software anymore.
 this page shows a backup obtained using curl and bypassing the ssl security check with the command.
 
 ```
