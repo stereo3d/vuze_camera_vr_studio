@@ -28,3 +28,10 @@ https://s3.amazonaws.com/downloads.vuze.camera/studio/m/VuzeVRStudio.dmg
 
 all rights remain with the original rights owners.
 
+a backup of the files is available here:
+
+https://mega.nz/folder/NIEBxBRL#OX6TilsIaN5VLakYvQPn9Q
+
+This is not my software, if anybody is offended by the link I will remove it.
+
+I will try to explain how do disasseble the vuze files. It will take a bit of time.
