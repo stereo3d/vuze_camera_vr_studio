@@ -35,3 +35,8 @@ https://mega.nz/folder/NIEBxBRL#OX6TilsIaN5VLakYvQPn9Q
 This is not my software, if anybody is offended by the link I will remove it.
 
 I will try to explain how do disasseble the vuze files. It will take a bit of time.
+
+If you have stereoscopic files and you would like to assemble them in Davinci Resolve the following video gives a brief introduction:
+
+https://www.youtube.com/watch?v=IRNfGC6ftc0
+
